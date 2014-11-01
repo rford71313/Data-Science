@@ -1,3 +1,3 @@
 ## ESPN
 
-[Link to ESPN](www.espn.com)
+[Link to ESPN](http://espn.go.com/)
